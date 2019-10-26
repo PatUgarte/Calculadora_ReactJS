@@ -1,0 +1,10 @@
+.output_visor {
+    width: 400px;
+    height: 80px;
+    background: #ccc;
+    display: inline-block;
+    font-size: 55px;
+    text-align: right;
+    margin: auto;
+    vertical-align: middle;
+}

@@ -1,0 +1,8 @@
+.input_visor {
+    width: 400px;
+    height: 30px;
+    background: #999;
+    display: block;
+    font-size: 25px;
+    text-align: left;
+}
